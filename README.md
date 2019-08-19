@@ -19,7 +19,8 @@ Leen las partes relevantes del siguiente documento
 
 # Formato Json
 Aquí esta la especificación del lenguaje <https://www.json.org/>.
-Aqui un par de ejemplos de establecimientos y de reseñas
+Baje los datos para el ejercicio de reseñas de aqui: <https://www.dropbox.com/sh/rw3zoaykrsti2mq/AABiRpvMZppNTOzq0N46tYBwa?dl=0>
+Un par de ejemplos de Json para establecimientos y reseñas
 ## Establecimentos
 ```Json
 Ejemplo 1
