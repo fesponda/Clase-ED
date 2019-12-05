@@ -2,6 +2,10 @@
 Estructuras de Datos 2019
 En este repositorio encontraras información relevante para la clase.
 
+## Encuesta
+
+https://docs.google.com/forms/d/e/1FAIpQLSfAI2ADtgi_hCb05aepEj6viezcP1dK2SNBaoWgH26hVABFbQ/viewform
+
 ## GUI
 Investiguen el uso de GUI de Java (Swing)
 
